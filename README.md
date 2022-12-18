@@ -1,3 +1,3 @@
 # Postgres-SQL-Homeworks
 
-This repository includes my homeworks that I have done while learning Postgres SQL  patika.dev
+This repo Postgrease is for assignments given by Patika.de when learning SQL.
